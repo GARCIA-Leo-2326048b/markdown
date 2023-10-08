@@ -37,3 +37,6 @@ ___
 
 # Sources
 
+* https://fr.wikipedia.org/wiki/Super_Mario_Bros.
+* https://fr.wikipedia.org/wiki/Liste_de_jeux_vid%C3%A9o_Mario
+* https://www.culture-games.com/personnages/mario
